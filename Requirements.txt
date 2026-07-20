@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+langchain-openai
+langchain-google-genai
+pyjwt
+passlib[bcrypt]
+pydantic
+pillow
+edge-tts
